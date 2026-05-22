@@ -104,6 +104,7 @@ flutter build apk --release
 flutter build ios --release
 ```
 ## UI Aplikasi
+<img src="simomonhp" width="300">
 
 
 
