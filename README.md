@@ -104,8 +104,27 @@ flutter build apk --release
 flutter build ios --release
 ```
 ## UI Aplikasi
-<img src="simomonhp" width="300">
+# homepage
 
+<img src="simomonhp.jpeg" width="300">
+
+# Riwayat transaksi 
+
+<img src="simomonrwyt.jpeg" width="300">
+
+# profile page
+
+<img src="simomonprfl.jpeg" width="300">
+
+# Ai page
+
+<img src="simomonAIpage.jpeg" width="300">
+
+# Transaksi
+
+<img src="tambahtambah.jpeg" width="300">
+
+<img src="kurangkurang.jpeg" width="300">
 
 
 
