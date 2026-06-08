@@ -146,7 +146,7 @@ Status : Excellent 🌟
 assets/screenshots/home.jpg
 ```
 
-![Home](assets/screenshots/home.jpg)
+![Home](simomonhp.jpeg)
 
 ---
 
@@ -156,7 +156,7 @@ assets/screenshots/home.jpg
 assets/screenshots/kancil_ai.jpg
 ```
 
-![AI](assets/screenshots/kancil_ai.jpg)
+![AI](simomonAIpage.jpeg)
 
 ---
 
@@ -166,7 +166,7 @@ assets/screenshots/kancil_ai.jpg
 assets/screenshots/expense.jpg
 ```
 
-![Expense](assets/screenshots/expense.jpg)
+![Expense](kurangkurang.jpeg)
 
 ---
 
@@ -176,7 +176,7 @@ assets/screenshots/expense.jpg
 assets/screenshots/income.jpg
 ```
 
-![Income](assets/screenshots/income.jpg)
+![Income](tambahtambah.jpeg)
 
 ---
 
@@ -186,7 +186,7 @@ assets/screenshots/income.jpg
 assets/screenshots/history.jpg
 ```
 
-![History](assets/screenshots/history.jpg)
+![History](simomonrwyt.jpeg)
 
 ---
 
@@ -196,7 +196,7 @@ assets/screenshots/history.jpg
 assets/screenshots/profile.jpg
 ```
 
-![Profile](assets/screenshots/profile.jpg)
+![Profile](simomonprfl.jpeg)
 
 ---
 
