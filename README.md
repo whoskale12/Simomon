@@ -23,6 +23,9 @@ Kelola keuangan dengan lebih cerdas menggunakan **Kancil AI 🦌** yang siap mem
 
 Aplikasi ini dilengkapi dengan **Kancil AI**, asisten finansial yang dapat memberikan insight mengenai pola pengeluaran dan kesehatan finansial pengguna.
 
+## Aplikasi 
+https://drive.google.com/drive/folders/1FeUz0iDN5EU2fAOu1ZUUQxQi1iaWR4GL?usp=drive_link
+
 ---
 
 # ✨ Fitur Utama
